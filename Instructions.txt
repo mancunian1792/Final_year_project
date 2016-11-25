@@ -1,0 +1,13 @@
+1.PCA folder contains downsampled data that is to be used for PCA program.
+2.COntains 2 dataset .Train dataset is labelled as data and test dataset is labelled as test.
+3.Run the HarishPCA.m directly with these two datasets.
+
+
+Note: The RBF-NN and the PCA are to be stored in different folders and run separately as they \
+both have a similar datset name called data.mat
+
+
+
+1.Run blaine.m to execute the RBF-NN using ROLS.
+2.The ROLS program is coded in batchols1.m .Although the recursive part is left out.The program can 
+run with normal OLS itself.
